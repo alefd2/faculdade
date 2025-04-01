@@ -17,7 +17,7 @@ void display()
     glutSolidCube(1.5);
 
     // Atualiza o ângulo
-    angle += 0.2;
+    angle += 0.9;
     if (angle > 360)
         angle = 0;
 

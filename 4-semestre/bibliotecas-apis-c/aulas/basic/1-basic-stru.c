@@ -14,10 +14,10 @@ void incrementa()
 int main()
 {
 
-    printf("Bem vindo ao programa de calculo de area de circulo!\n");
+    printf("Bem vindo ao programa de cálculo de area de circulo!\n");
 
-    int raio = 10;                 // Added missing semicolon
-    float area = PI * raio * raio; // Formula for circle area: π * r²
+    int raio = 10;
+    float area = PI * raio * raio;
 
     printf("A area do circulo com raio %d e: %.2f\n", raio, area);
 

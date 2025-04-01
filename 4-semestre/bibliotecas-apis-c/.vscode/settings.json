@@ -1,0 +1,12 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "stdio.h": "c"
+  }
+}
